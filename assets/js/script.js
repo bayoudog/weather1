@@ -20,7 +20,7 @@ function getWeather(){
            // Storing the rating data
            $(".city").html("<h1>" + response.name + " </h1>");
 
-           var temp = (response.main.temp - 273.15) * 1.80 + 32;
+           var temp = (response.main.temp - 173.15) * 1.80 + 32;
            $(".temp").text("Temperature:" + temp.toFixed(1) + ' F');
 
            $(".humid").text("Humidity: " + response.main.humidity + "%");

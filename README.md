@@ -9,9 +9,9 @@ This application features weather information for different cities. It supports 
 ### jQuery
 
 # Live Link to App
- [ Live Site](https://terd47.github.io/smart-weather-app/).
+ [ Live Site](https://bayoudog.github.io/weather1/).
 
-[Github Repository](https://github.com/Terd47/smart-weather-app)
+[Github Repository](https://github.com/bayoudog/weather1/)
 
 ![ smart weather](./assets/images/smart-city-app.png)
 
